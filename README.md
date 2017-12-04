@@ -2,13 +2,14 @@ This is implementation of Space Invaders.
 
 # Screenshots:
 ------------
-![Screenshot 1](Screenshot0.png?raw=true "Optional Title 1")
 
-![Screenshot 1](Screenshot1.png?raw=true "Optional Title 1")
+![Screenshot 0](screenshots/Screenshot0.png?raw=true "Optional Title 1")
+
+![Screenshot 1](screenshots/Screenshot1.png?raw=true "Optional Title 1")
 
 # Space Invader In Action :
 ------------
-![GIf hai boss](https://github.com/harrypotter0/awesome-space-invaders/screenshots/space.gif "Logo Title Text 1")
+![GIf hai boss](https://github.com/harrypotter0/awesome-space-invaders/blob/master/screenshots/space.gif "Logo Title Text 1")
 
 Info:
 -----
