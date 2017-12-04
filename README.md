@@ -4,8 +4,8 @@ Screenshots:
 ------------
 
 <dl >
-  <img src="screenshots/ScreenShot0.jpg" width="345">.
-  <img src="screenshots/ScreenShot1.jpg" width="345">
+  <img src="screenshots/Screenshot0.jpg" width="345">.
+  <img src="screenshots/Screenshot1.jpg" width="345">
 </dl>
 
 
