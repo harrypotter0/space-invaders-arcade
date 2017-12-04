@@ -10,9 +10,8 @@ Main Screen                                                 |  Stage 1
 
 # Space Invader In Action :
 ------------
-<p align="center">  
 ![GIf hai boss](https://github.com/harrypotter0/awesome-space-invaders/blob/master/screenshots/space.gif "Logo Title Text 1")
-</p>
+
 Info:
 -----
 The game comes with three levels of difficulty, it gets harder as you advance the stages, the player can grab special weapons as you kill aliens, The best at each difficulty level scores are stored. Download the source code as a zip file by clicking [here](https://github.com/harrypotter0/awesome-space-invaders/archive/master.zip)   
